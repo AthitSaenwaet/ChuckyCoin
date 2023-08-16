@@ -14,7 +14,7 @@
  0x80b82a600c023a9d04af806a83d2690948b50938
 ```
 
-### BSCSCAN :
+### BSCSCAN ETHERSCAN :
 
 ```
 https://etherscan.io/token/0x80b82a600c023a9d04af806a83d2690948b50938
