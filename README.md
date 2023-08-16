@@ -1,4 +1,4 @@
-# CKY [ CHUCKY ]
+# CHUCKY [ CKY ]
 
 ## "Eternal Vigilance, Eternal Value: Chucky Coin - The Scam Killer's Choice."
 
